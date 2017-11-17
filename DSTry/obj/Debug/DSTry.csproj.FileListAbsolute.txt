@@ -1,0 +1,10 @@
+D:\Visual Studio\DSTry\DSTry\bin\Debug\DSTry.exe.config
+D:\Visual Studio\DSTry\DSTry\bin\Debug\DSTry.exe
+D:\Visual Studio\DSTry\DSTry\bin\Debug\DSTry.pdb
+D:\Visual Studio\DSTry\DSTry\obj\Debug\DSTry.csprojResolveAssemblyReference.cache
+D:\Visual Studio\DSTry\DSTry\obj\Debug\DSTry.Form1.resources
+D:\Visual Studio\DSTry\DSTry\obj\Debug\DSTry.Properties.Resources.resources
+D:\Visual Studio\DSTry\DSTry\obj\Debug\DSTry.csproj.GenerateResource.Cache
+D:\Visual Studio\DSTry\DSTry\obj\Debug\DSTry.csproj.CoreCompileInputs.cache
+D:\Visual Studio\DSTry\DSTry\obj\Debug\DSTry.exe
+D:\Visual Studio\DSTry\DSTry\obj\Debug\DSTry.pdb
